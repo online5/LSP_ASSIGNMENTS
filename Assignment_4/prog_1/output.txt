@@ -1,0 +1,2 @@
+Enter No1, No2.
+Addition of 10 and 20 is 30.
