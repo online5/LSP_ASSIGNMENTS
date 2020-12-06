@@ -1,0 +1,1 @@
+int SumFactor(int n);
