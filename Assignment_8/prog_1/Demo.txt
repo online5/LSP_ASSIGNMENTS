@@ -1,0 +1,26 @@
+Contents of Desktop directory are
+Name: LogicBatch
+Name: SDM
+Name: demo2
+Name: LSP
+Name: PROGRAMMING
+Name: UNIT2 NOTES.zip (Unzipped Files)
+Name: patil
+Name: EBC-2019
+Name: Visual_Paradigm_16.2
+Name: SCHLORSHIP
+Name: C++
+Name: CPPMCQ
+Name: Results
+Name: Book_Must_Read
+Name: MarvAssgin
+Name: CollegeMlAssingment
+Name: .
+Name: ..
+Name: project
+Name: Python-3.7.2
+Name: Python
+Name: DjangoProjects
+Name: CryptoAssign
+Name: UNIT1 NOTES.zip (Unzipped Files)
+Name: Java

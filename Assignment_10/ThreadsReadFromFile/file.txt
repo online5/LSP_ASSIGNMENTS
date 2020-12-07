@@ -1,0 +1,11 @@
+ABCDEFGHIJKLMNOPQRST
+abcdefChallenges in data synchronization
+Some of the challenges which user may face in data synchronization:
+
+data formats complexity;
+real-timeliness;
+data security;
+data quality;
+performance.
+Data formats complexity
+Data formats tend to grow more complex with time as the organization grows and evolves. This results not only in building simple interfaces between the two applications (source and target), but also in a need to transform the data while passing them to the target application. ETL (extraction transformation loading) tools can be helpful at this stage for managing data format complexities

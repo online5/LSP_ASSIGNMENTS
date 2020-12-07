@@ -1,0 +1,3 @@
+Number of Capital count from ChildProcess1 is 5
+
+NNumber of Capital count from ChildProcess2 is 13
